@@ -31,7 +31,7 @@ I enjoy turning raw data into clear, actionable insights and building practical,
 Power BI | Power Query | DAX | Data Cleaning & Modelling
 An interactive Power BI dashboard analysing 10,000+ retail transaction records across region, product category, and time. Built KPI measures (Total Sales, Profit Margin, Average Order Value) and uncovered that the Furniture category carried a 4% profit margin — well below the 14% company average — flagging a discounting risk for the business.
 
-### 🌱 BioShield – Biosecurity Simulation & Advisory Platform
+### 🌱 BioShield – Biosecurity Simulation & Advisory Platform ( https://bio.digitalaashish.com )
 Node.js backend | System architecture | AI integration | RBAC
 A simulation tool analysing plant and soil health data to identify biosecurity issues and generate step-by-step remediation guidance, with an AI-powered diagnostic component and an admin panel with role-based access control.
 
